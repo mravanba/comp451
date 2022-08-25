@@ -4,7 +4,7 @@ These are collections of notebooks for topics covered in [COMP 451](https://www.
 
 List of topics with link to notebooks:
 - [**Probability**](./Probability.ipynb), [Colab](https://colab.research.google.com/github/mravanba/comp451/blob/master/Probability.ipynb)
-- [**Maximum likelihood**](./MaximumLikelihood.ipynb), [Colab](https://colab.research.google.com/github/mravanba/comp451/blob/master/MaximumLikelihood.ipynb)
+- [**Maximum likelihood**](./maximumLikelihood.ipynb), [Colab](https://colab.research.google.com/github/mravanba/comp451/blob/master/MaximumLikelihood.ipynb)
 - [**Naive Bayes**](./NaiveBayes.ipynb), [Colab](https://colab.research.google.com/github/mravanba/comp451/blob/master/NaiveBayes.ipynb)
 - [**Linear Regression**](./LinearRegression.ipynb), [Colab](https://colab.research.google.com/github/mravanba/comp451/blob/master/LinearRegression.ipynb)
 - [**Optimization**](./Optimization.ipynb), [Colab](https://colab.research.google.com/github/mravanba/comp451/blob/master/Optimization.ipynb)
